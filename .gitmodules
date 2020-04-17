@@ -1,0 +1,6 @@
+[submodule "libweb"]
+	path = libweb
+	url = ./libwebp
+[submodule "libwebp"]
+	path = libwebp
+	url = ./libwebp
